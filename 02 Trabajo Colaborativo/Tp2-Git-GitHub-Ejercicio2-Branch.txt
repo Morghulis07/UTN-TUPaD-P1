@@ -1,0 +1,5 @@
+Ejercicio 2
+Creando Branchs 
+o Crear una Branch 
+o Realizar cambios o agregar un archivo
+o Subir la Branch 
